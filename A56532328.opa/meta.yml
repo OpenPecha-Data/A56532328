@@ -1,0 +1,15 @@
+id: A56532328
+title: 'MSV 6,01: Upāliparipṛcchā'
+type: translation
+pechas:
+- I9ACBCEDC
+- I5060181D
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:13:18.341323
+  last_modified_at: 2023-02-10 00:13:18.341337
+alignment_to_base:
+  I9ACBCEDC/6914: 40F0
+  I5060181D/DA2B: 40F0
